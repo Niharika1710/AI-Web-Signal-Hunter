@@ -1,0 +1,19 @@
+# Environment and virtual environment
+.env
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local data and generated exports
+data/*
+exports/*
+
+# Keep folders available in Git
+!data/.gitkeep
+!exports/.gitkeep
+
+# Streamlit secrets
+.streamlit/secrets.toml

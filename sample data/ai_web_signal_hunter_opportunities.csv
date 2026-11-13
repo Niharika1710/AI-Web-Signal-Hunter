@@ -1,0 +1,4 @@
+Rank,Category,Theme,Opportunity score,Signal count,Unique domains,Evidence strength
+1,pain_point,a user experienced account suspension and technical errors while attempting to use the official whatsapp business cloud api for personal resume automation via n8n.,77.75,1,1,Single Source
+2,feature_request,"users are requesting an integration with the whatsapp cloud api for multi-party group chats in chatwoot to handle support, sales, and vendor coordination.",75.0,1,1,Single Source
+3,feature_request,a user opened an issue requesting the addition of whatsapp support to the open-source project.,69.75,1,1,Single Source
