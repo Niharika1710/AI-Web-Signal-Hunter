@@ -252,3 +252,23 @@ The application is designed for research using publicly accessible webpages.
 ## Author
 
 Developed as an AI-powered web intelligence and opportunity discovery project.
+
+## Application Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Signal Analytics
+![Research Results](screenshots/research_results.png)
+
+### Opportunity Ranking
+![Opportunity Analysis](screenshots/opportunity_analysis.png)
+
+### Ranked Opportunities
+![Opportunities](screenshots/opportunities.png)
+
+### AI-Generated Briefs
+![AI Briefs](screenshots/ai_briefs.png)
+
+### Exports
+![Exports](screenshots/exports.png)
